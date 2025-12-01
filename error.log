@@ -1716,3 +1716,25 @@ Traceback (most recent call last):
 NameError: name 'event' is not defined. Did you mean: 'self.event'?
 --------------------------------------------------------------------------------
 [2025-11-30 21:50:40] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+[2025-11-30 21:58:16] INFO: Application starting...
+[2025-11-30 21:58:17] INFO: MainWindow shown.
+[2025-11-30 21:58:21] INFO: Loading project: prueba
+[2025-11-30 21:58:21] INFO: Chapter manager initialized.
+[2025-11-30 21:58:21] INFO: Characters loaded.
+
+[2025-11-30 21:58:21] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:58:21] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:58:21] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt

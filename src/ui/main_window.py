@@ -92,6 +92,10 @@ class MainWindow(QMainWindow):
         self.editor.stats_updated.connect(self.update_stats_label)
         self.editor.textChanged.connect(self.auto_save_chapter)
         
+        # AI Signals
+        self.ai_sidebar.insert_text_requested.connect(self.editor.insertPlainText)
+        self.ai_sidebar.create_chapter_requested.connect(self.create_chapter_from_ai)
+        
         # Auto-save timer (every 60 seconds)
         self.auto_save_timer = QTimer()
         self.auto_save_timer.timeout.connect(self.save_current_chapter)
@@ -160,6 +164,26 @@ class MainWindow(QMainWindow):
         except Exception as e:
             log_info(f"CRITICAL ERROR loading project: {e}")
             QMessageBox.critical(self, "Error Fatal", f"Error al cargar el proyecto: {e}")
+
+    def create_chapter_from_ai(self, title):
+        """Create a new chapter requested by AI"""
+        if not self.chapter_manager:
+            QMessageBox.warning(self, "Error", "No hay un proyecto abierto. Abre un proyecto para crear capítulos.")
+            return
+            
+        try:
+            filename = self.chapter_manager.create_chapter(title)
+            self.chapter_sidebar.refresh_list()
+            self.load_chapter(filename)
+            
+            # Select in list
+            items = self.chapter_sidebar.chapter_list.findItems(filename, Qt.MatchFlag.MatchExactly)
+            if items:
+                self.chapter_sidebar.chapter_list.setCurrentItem(items[0])
+                
+            QMessageBox.information(self, "Éxito", f"Capítulo creado: {filename}")
+        except Exception as e:
+            QMessageBox.critical(self, "Error", f"No se pudo crear el capítulo: {e}")
 
     def load_chapter(self, filename):
         """Load a chapter into the editor"""

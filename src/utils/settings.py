@@ -81,4 +81,35 @@ def save_ollama_model(model):
     with open(SETTINGS_FILE, 'w', encoding='utf-8') as f:
         json.dump(settings, f, indent=4)
 
+def load_style_preference():
+    """Load style preferences (auto_mode, last_style)"""
+    default = {"auto_style": True, "last_style": "Normal"}
+    if os.path.exists(SETTINGS_FILE):
+        try:
+            with open(SETTINGS_FILE, 'r', encoding='utf-8') as f:
+                settings = json.load(f)
+                return {
+                    "auto_style": settings.get('auto_style', True),
+                    "last_style": settings.get('last_style', "Normal")
+                }
+        except:
+            pass
+    return default
+
+def save_style_preference(auto_style, last_style):
+    """Save style preferences"""
+    settings = {}
+    if os.path.exists(SETTINGS_FILE):
+        try:
+            with open(SETTINGS_FILE, 'r', encoding='utf-8') as f:
+                settings = json.load(f)
+        except:
+            pass
+    
+    settings['auto_style'] = auto_style
+    settings['last_style'] = last_style
+    
+    with open(SETTINGS_FILE, 'w', encoding='utf-8') as f:
+        json.dump(settings, f, indent=4)
+
 
