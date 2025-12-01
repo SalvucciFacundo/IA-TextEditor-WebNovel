@@ -1,0 +1,1718 @@
+[2025-11-30 20:48:36] INFO: Application starting...
+[2025-11-30 20:48:38] INFO: MainWindow shown.
+[2025-11-30 20:49:39] INFO: Loading project: prueba
+
+[2025-11-30 20:49:39] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 20:49:39] INFO: Text loaded.
+[2025-11-30 20:49:39] INFO: Characters loaded.
+
+[2025-11-30 20:49:44] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:49:55] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:49:59] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:49:59] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 20:50:47] INFO: Application starting...
+[2025-11-30 20:50:48] INFO: MainWindow shown.
+[2025-11-30 20:50:53] INFO: Loading project: prueba
+
+[2025-11-30 20:50:53] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 20:50:53] INFO: Text loaded.
+[2025-11-30 20:50:53] INFO: Characters loaded.
+
+[2025-11-30 20:51:01] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:02] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:03] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:03] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:03] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:03] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:03] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:04] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:04] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:04] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:04] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:04] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:04] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:04] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:05] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:05] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:05] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:05] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:05] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:05] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:06] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:06] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:06] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:07] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:07] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:07] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:07] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:08] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:08] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:08] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:08] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:08] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 20:51:23] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:02:07] INFO: Application starting...
+[2025-11-30 21:02:07] INFO: Error in main loop: 'MainWindow' object has no attribute 'load_theme_preference'
+
+[2025-11-30 21:02:07] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\KunoWriter.pyw", line 7, in <module>
+    main()
+    ~~~~^^
+  File "D:\Kuno\Web Novel\src\main.py", line 19, in main
+    raise e
+  File "D:\Kuno\Web Novel\src\main.py", line 13, in main
+    window = MainWindow()
+  File "D:\Kuno\Web Novel\src\ui\main_window.py", line 36, in __init__
+    self.is_dark_mode = self.load_theme_preference()
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'load_theme_preference'
+--------------------------------------------------------------------------------
+[2025-11-30 21:02:23] INFO: Application starting...
+[2025-11-30 21:02:25] INFO: MainWindow shown.
+[2025-11-30 21:05:50] INFO: Loading project: prueba
+[2025-11-30 21:05:50] INFO: Chapter manager initialized.
+[2025-11-30 21:05:50] INFO: Characters loaded.
+
+[2025-11-30 21:05:50] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:07] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:08] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:08] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:13] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:14] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:14] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:14] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:15] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:15] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:15] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:15] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:15] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:18] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:18] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:06:27] INFO: Loading project: prueba
+[2025-11-30 21:06:27] INFO: Chapter manager initialized.
+[2025-11-30 21:06:27] INFO: Characters loaded.
+
+[2025-11-30 21:06:27] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:30] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:31] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:31] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:31] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:31] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:32] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:32] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:32] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:33] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:34] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:34] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:34] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:34] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:34] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:34] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:35] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:35] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:35] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:06:35] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:01] INFO: Loading project: prueba
+[2025-11-30 21:07:01] INFO: Chapter manager initialized.
+[2025-11-30 21:07:01] INFO: Characters loaded.
+
+[2025-11-30 21:07:01] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:07:01] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:01] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:03] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:03] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:11] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:11] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:22] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:22] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:07:23] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:23] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:24] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:24] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:07:25] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:25] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:26] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:26] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:07:28] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:28] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:29] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:29] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:07:29] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:29] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:30] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:30] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:07:30] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:30] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:31] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:31] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:07:31] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:31] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:32] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:32] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:07:32] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:32] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:07:33] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:07:33] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+[2025-11-30 21:08:07] INFO: Application starting...
+[2025-11-30 21:08:09] INFO: MainWindow shown.
+[2025-11-30 21:08:16] INFO: Loading project: otro
+[2025-11-30 21:08:16] INFO: Chapter manager initialized.
+[2025-11-30 21:08:16] INFO: Characters loaded.
+
+[2025-11-30 21:08:16] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:08:23] INFO: Loading project: prueba
+[2025-11-30 21:08:23] INFO: Chapter manager initialized.
+[2025-11-30 21:08:23] INFO: Characters loaded.
+
+[2025-11-30 21:08:23] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:08:23] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:08:23] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:08:27] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:08:27] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:08:29] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:08:29] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:08:40] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:08:40] INFO: Loaded chapter: Capítulo 3 - otro capitulo.txt
+
+[2025-11-30 21:09:18] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:09:18] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:09:19] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:09:19] INFO: Loaded chapter: Capítulo 3 - otro capitulo.txt
+
+[2025-11-30 21:09:20] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:09:20] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:09:26] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:09:26] INFO: Loaded chapter: capitulo 1.txt
+
+[2025-11-30 21:09:29] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:09:29] INFO: Loaded chapter: Capítulo 3 - otro capitulo.txt
+
+[2025-11-30 21:09:30] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:09:30] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+[2025-11-30 21:09:45] INFO: Loading project: prueba
+[2025-11-30 21:09:45] INFO: Chapter manager initialized.
+[2025-11-30 21:09:45] INFO: Characters loaded.
+
+[2025-11-30 21:09:45] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:09:45] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:09:45] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:10:42] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:10:42] INFO: Loaded chapter: Capítulo 5 - otro retorno.txt
+[2025-11-30 21:11:01] INFO: Loading project: otro
+[2025-11-30 21:11:01] INFO: Chapter manager initialized.
+[2025-11-30 21:11:01] INFO: Characters loaded.
+
+[2025-11-30 21:11:01] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:11:06] INFO: Loading project: prueba
+[2025-11-30 21:11:06] INFO: Chapter manager initialized.
+[2025-11-30 21:11:06] INFO: Characters loaded.
+
+[2025-11-30 21:11:06] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:06] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:11:06] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:11:07] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:11:07] INFO: Loaded chapter: Capítulo 5 - otro retorno.txt
+
+[2025-11-30 21:11:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:09] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:10] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:11] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:12] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:11:17] INFO: Loading project: otro
+[2025-11-30 21:11:17] INFO: Chapter manager initialized.
+[2025-11-30 21:11:17] INFO: Characters loaded.
+
+[2025-11-30 21:11:17] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:11:19] INFO: Loading project: prueba
+[2025-11-30 21:11:19] INFO: Chapter manager initialized.
+[2025-11-30 21:11:19] INFO: Characters loaded.
+
+[2025-11-30 21:11:19] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:11:19] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:11:19] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:11:21] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:11:21] INFO: Loaded chapter: Capítulo 5 - otro retorno.txt
+[2025-11-30 21:17:56] INFO: Application starting...
+[2025-11-30 21:17:57] INFO: MainWindow shown.
+[2025-11-30 21:27:51] INFO: Loading project: prueba
+[2025-11-30 21:27:51] INFO: Chapter manager initialized.
+[2025-11-30 21:27:51] INFO: Characters loaded.
+
+[2025-11-30 21:27:51] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:27:51] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:27:51] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:27:53] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:27:53] INFO: Loaded chapter: capitulo 1.txt
+[2025-11-30 21:32:47] INFO: Application starting...
+[2025-11-30 21:32:50] INFO: MainWindow shown.
+[2025-11-30 21:42:13] INFO: Application starting...
+[2025-11-30 21:42:14] INFO: MainWindow shown.
+[2025-11-30 21:42:17] INFO: Loading project: prueba
+[2025-11-30 21:42:17] INFO: Chapter manager initialized.
+[2025-11-30 21:42:17] INFO: Characters loaded.
+
+[2025-11-30 21:42:17] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:42:17] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:42:17] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
+
+[2025-11-30 21:42:21] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:42:21] INFO: Loaded chapter: capitulo 1.txt
+[2025-11-30 21:49:33] INFO: Application starting...
+[2025-11-30 21:49:34] INFO: MainWindow shown.
+[2025-11-30 21:50:40] INFO: Loading project: prueba
+[2025-11-30 21:50:40] INFO: Chapter manager initialized.
+[2025-11-30 21:50:40] INFO: Characters loaded.
+
+[2025-11-30 21:50:40] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+
+[2025-11-30 21:50:40] CRITICAL ERROR:
+Traceback (most recent call last):
+  File "D:\Kuno\Web Novel\src\ui\editor.py", line 136, in update_stats
+    cursor = self.cursorForPosition(event.pos())
+                                    ^^^^^
+NameError: name 'event' is not defined. Did you mean: 'self.event'?
+--------------------------------------------------------------------------------
+[2025-11-30 21:50:40] INFO: Loaded chapter: Capítulo 2 - capitulo2.txt
